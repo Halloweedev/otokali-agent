@@ -1,0 +1,14 @@
+{
+  "name": "otokali-agent",
+  "version": "1.0.0",
+  "description": "AI Agent dashboard for gyms and wellness studios",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
